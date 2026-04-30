@@ -1,4 +1,4 @@
-# Atmospheric & Headlines
+# Weather & News Dashboard
 
 A minimalist, high-performance dashboard that centralizes your daily essentials: current weather conditions and top news headlines. Built with a focus on speed and a refined dark-mode aesthetic.
 
