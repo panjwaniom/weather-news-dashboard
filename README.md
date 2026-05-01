@@ -19,6 +19,14 @@ A minimalist, high-performance dashboard that centralizes your daily essentials:
 - **Theme Continuity:** Automatic dark/light mode detection with manual override that persists across sessions
 - **Responsive Motion:** Custom Tailwind animations for smooth transitions between tabs and loading states
 
+## Screenshots
+
+### Homepage
+<img src="screenshots/homepage.png" width="900"/>
+
+### Dark Mode View
+<img src="screenshots/darkmode.png" width="900"/>
+
 ## Setup & Installation
 
 1. **Clone the repository:**
